@@ -1,0 +1,25 @@
+{
+  "name": "new-base-class",
+  "version": "0.0.10",
+  "description": "new-base-class requires base-class-extend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/LightSpeedWorks/base-class-extend",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LightSpeedWorks/base-class-extend"
+  },
+  "bugs": {
+    "url": "https://github.com/LightSpeedWorks/base-class-extend/issues"
+  },
+  "keywords": [
+    "new-base-class"
+  ],
+  "author": "LightSpeedC",
+  "license": "MIT",
+  "dependencies": {
+    "base-class-extend": ">=0.0.12"
+  }
+}
